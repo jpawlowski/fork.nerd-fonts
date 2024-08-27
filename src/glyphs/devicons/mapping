@@ -104,7 +104,7 @@ E662 E762 bulma/bulma-plain.svg bulma
 E663 E763 gulp/gulp-plain.svg gulp
 E664 E764 atom/atom-original.svg atom
 E665 E765 bun/bun-plain.svg bun
-E666 E766 c/c-plain.svg c-lang c
+E666 E766 c/c-plain.svg c_lang c
 E667 E767 jenkins/jenkins-line.svg jenkins
 E668 E768 clojure/clojure-line.svg clojure
 E669 E769 perl/perl-plain.svg perl
